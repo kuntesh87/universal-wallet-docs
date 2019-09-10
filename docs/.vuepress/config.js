@@ -9,7 +9,7 @@ module.exports = {
     displayAllHeaders: true,
     nav: [
       { text: 'BlockX Labs', link: 'https://blockxlabs.com' },
-      { text: 'Univeral Walelt', link: 'https://github.com/blockxlabs/universal-wallet' },
+      { text: 'Univeral Wallet', link: 'https://github.com/blockxlabs/universal-wallet' },
       {
         text: 'Documentation',
         items: [
